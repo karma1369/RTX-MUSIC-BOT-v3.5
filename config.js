@@ -1,10 +1,10 @@
 module.exports = {
-  TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  TOKEN: "MTIwNjI2OTMzNzc4NzE3OTA2OA.G2rd3A.K8vhOnSbCLDzIVsAjkBo7PDP5X6-H-H91r-tnE",
+  ownerID: ["1107744228773220473", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'RTXX GG',
+  status: 'You Because You is My Everything | Happy Valentines<3',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
@@ -13,7 +13,7 @@ module.exports = {
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
+    url: "",
   },
 
   voteManager: {
