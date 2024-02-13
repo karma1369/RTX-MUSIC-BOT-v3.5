@@ -56,7 +56,7 @@ module.exports = {
            { name: '🎵 Now Playing', value: 'Display the currently playing song information' },
           { name: '🔊 Volume', value: 'Adjust the music volume [ hearing at high volumes is risky ]' },
         ) 
-       .setImage('https://cdn.discordapp.com/attachments/1150827819547504741/1168917372267151370/standard.gif?ex=65538222&is=65410d22&hm=b4994392f44679da41fc9304eb69deaa3769e136057556deec0db69ae8d33a97&')
+       .setImage('https://media.discordapp.net/attachments/1187377061959045181/1207054115981500476/abef7c502876f45674d021230c4ea689.jpg?ex=65de3fbf&is=65cbcabf&hm=625106b29f760af166dce75db79cd689071a581094f0d66a7a3f25a36f49dd8c&')
       const button1 = new ButtonBuilder()
         .setLabel('YouTube')
         .setURL('https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A')
@@ -64,12 +64,12 @@ module.exports = {
 
       const button2 = new ButtonBuilder()
         .setLabel('Discord')
-        .setURL('https://discord.gg/FUEHs7RCqz')
+        .setURL('https://discord.gg/')
         .setStyle(ButtonStyle.Link);
 
       const button3 = new ButtonBuilder()
         .setLabel('Code')
-        .setURL('https://replit.com/@BEASTGAMERS1?tab=community')
+        .setURL('https://replit.com/@BEASTGAMERS')
         .setStyle(ButtonStyle.Link);
 
       const row = new ActionRowBuilder()
